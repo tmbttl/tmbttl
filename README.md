@@ -1,5 +1,5 @@
 Hi, I’m Tim
-- International Information Systems M. Sc. student @ FAU Erlangen-Nürnberg
+- M. Sc. International Information Systems student @ FAU Erlangen-Nürnberg
 
 <!---
 tmbttl/tmbttl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
